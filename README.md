@@ -19,17 +19,27 @@
 3. High-pass filtering
 4. Conclusion
 
+## TP3 – SPREAD SPECTRUM WATERMARKING
+1. Off-the-shelf random number generators
+2. Correlation functions
+3. CDMA-based watermarking
+4. Conclusion
+
+
 ### Project structure:
 
 - [data](./data) storage the original images.
 
 - [result](./result) storage the output images.
 
-- [consideration](./consideration) storage the source code represent in HTML version (only read) which is suitable for consideration.
+- [consideration](./consideration) storage the source code represent in HTML format (only read) which is suitable for consideration.
 
-- [TP1](./SPRCA_Master3IR-M2-TP1.ipynb) is the TP1 in the Jupyter notebook version.
+- [TP1](./SPRCA_Master3IR-M2-TP1.ipynb) is the TP1 in the Jupyter notebook format.
 
-- [TP2](./SPRCA_Master3IR-M2-TP2.ipynb) is the TP2 in the Jupyter notebook version.
+- [TP2](./SPRCA_Master3IR-M2-TP2.ipynb) is the TP2 in the Jupyter notebook format.
+
+- [TP3](./SPRCA_Master3IR-M2-TP3.ipynb) is the TP3 in the Jupyter notebook format.
+
 
 ### Installation
 This project is conducted in Python version 3.

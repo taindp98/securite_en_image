@@ -7,6 +7,8 @@
 | Duong Phuc Tai |  NGUYEN | 12108339 |
 | Kamilia |    RAHIL   |   12109923 |
 
+**Note**: the source code is written in the Jupyter notebook, if you want to reproduce it you should install Jupyter in the Extensions of VSCode, or simply you can read the source code in the [consideration](./consideration) folder. You can find more in my repository on the Github [here](https://github.com/taindp98/securite_en_image).
+
 ## TP1 - ILLUSTRATIONS ON IMAGE ENCRYPTION AND STEGANOGRAPHY
 1. CAESAR cypher applied to images
 2. Simple substitution cypher applied to images
@@ -34,16 +36,19 @@
 
 - [consideration](./consideration) storage the source code represent in HTML format (only read) which is suitable for consideration.
 
+- [python](./python) storage the source code represent in python code which is suitable for consideration.
+
 - [TP1](./SPRCA_Master3IR-M2-TP1.ipynb) is the TP1 in the Jupyter notebook format.
 
 - [TP2](./SPRCA_Master3IR-M2-TP2.ipynb) is the TP2 in the Jupyter notebook format.
 
 - [TP3](./SPRCA_Master3IR-M2-TP3.ipynb) is the TP3 in the Jupyter notebook format.
 
+- [Comparison](./TP2-Table_Comparison_Quality_iDCT.png) represent the quality comparison in the TP2 (Devoir)
 
 ### Installation
 This project is conducted in Python version 3.
 
 `pip install -r requirements.txt`
 
-**Note**: the source code is written in the Jupyter notebook, if you want to reproduce it you should install Jupyter in the Extensions of VSCode, or simply you can read the source code in the [consideration](./consideration) folder. You can find more in my repository on the Github [here](https://github.com/taindp98/securite_en_image).
+
